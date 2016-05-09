@@ -1,0 +1,14 @@
+layout_spectrum: 0.8328949
+typography_spectrum: 0.5338805
+color:
+  saturation: 0.07524471
+  lightness: 0.08020563
+  brandStrength: 0.7871426
+  rhythmicContrast: 0.8899825
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Niklim
